@@ -1,0 +1,23 @@
+{
+  "repo": "videopad-masters-edition-editor",
+  "product": "VideoPad Masters Edition Editor",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "videopad-masters-editor",
+    "videopad-masters",
+    "video-editing",
+    "how-to-install-videopad-masters",
+    "how-to-setup-videopad-masters",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "videopad-editor"
+  ],
+  "site": "unaflore.co",
+  "product_title": "VideoPad Masters Edition Editor"
+}
